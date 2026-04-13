@@ -13,7 +13,7 @@ Sou um desenvolvedor em formação, sempre focado em aprendizado contínuo, orga
 ### 🛠️ Minhas Habilidades 
 * **Linguagens:** JavaScript e Python, Java.
 * **Bancos de Dados:** MySQL, Microsoft SQL Server.
-***Ferramentas & Frameworks:** Git para versionamento, FastAPI, e draw.io para criação de fluxogramas e planejamento de projetos.
+**Ferramentas & Frameworks:** Git para versionamento, FastAPI, e draw.io para criação de fluxogramas e planejamento de projetos.
 * **Idiomas:** Inglês (Intermediário) e Espanhol (Básico).
 ### 🚀 Projeto em Destaque
 * **HoraWeather - Sistema Web de Consulta Climática:** Uma aplicação web para consulta de dados climáticos e horários de cidades em tempo real. O projeto foi construído utilizando Python no backend com consumo de APIs, e HTML, CSS e JavaScript sendo utilizado VibeCode no frontend.
