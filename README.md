@@ -11,9 +11,18 @@ Sou um desenvolvedor em formação, sempre focado em aprendizado contínuo, orga
 * Sou de Brasília - DF.
 
 ### 🛠️ Minhas Habilidades
-* **Linguagens:** JavaScript, Python, Java, C.
-* **Bancos de Dados:** MySQL, Microsoft SQL Server.
-* **Ferramentas & Frameworks:** Git para versionamento, FastAPI, e draw.io para criação de fluxogramas e planejamento de projetos.
+* **Linguagens:** 
+  <p>
+    <img src="https://skillicons.dev/icons?i=js,python,java,c" />
+  </p>
+* **Bancos de Dados:** 
+  <p>
+    <img src="https://skillicons.dev/icons?i=mysql,mssql" />
+  </p>
+* **Ferramentas & Frameworks:** 
+  <p>
+    <img src="https://skillicons.dev/icons?i=git,fastapi,aws" />
+  </p>
 * **Idiomas:** Inglês (Intermediário) e Espanhol (Básico).
 
 
@@ -21,7 +30,9 @@ Sou um desenvolvedor em formação, sempre focado em aprendizado contínuo, orga
 * **HoraWeather - Sistema Web de Consulta Climática:** Uma aplicação web para consulta de dados climáticos e horários de cidades em tempo real. O projeto foi construído utilizando Python no backend com consumo de APIs, e HTML, CSS e JavaScript sendo utilizado VibeCode no frontend.
 * Link do projeto: https://cairesheliovieira-ai.github.io/HoraWeather-st/
 
-### Atualmente desenvolvendo um sistema distribuído de assistente de voz conversacional de alta performance, integrando a interface natural da Amazon Alexa com modelos de linguagem de grande escala (LLM) da API do Gemini. 
+### Assistente de Voz com LLM e Arquitetura Serverless (Em Desenvolvimento) 🎙️
+
+Atualmente desenvolvendo um sistema distribuído de assistente de voz conversacional de alta performance, integrando a interface natural da Amazon Alexa com modelos de linguagem de grande escala (LLM) da API do Gemini. 
 
 A arquitetura do projeto é estruturada sob o paradigma *serverless*, utilizando o ambiente de computação em nuvem da AWS (AWS Lambda e IAM) para o processamento assíncrono de eventos e o tratamento de cargas JSON complexas oriundas do Alexa Skills Kit (ASK). O desenvolvimento abrange desafios avançados de engenharia de software, tais como:
 * **Mitigação de Latência e Timeouts:** Implementação de estratégias de otimização de payload e controle estrito do tempo de resposta para atender às restrições síncronas de infraestrutura de voz.
@@ -30,20 +41,15 @@ A arquitetura do projeto é estruturada sob o paradigma *serverless*, utilizando
 * **Segurança e Observabilidade:** Práticas rigorosas de isolamento de credenciais via variáveis de ambiente/secrets e monitoramento de logs de execução para rastreabilidade de falhas e consumo de API.
 
 ### 📫 Como me encontrar
-* **E-mail:** cairesheliovieira@gmail.com
-* **Linkedin:** www.linkedin.com/in/hélio-junior
-* **Dev.to** https://dev.to/joterredev
 
-
-<!--
-**cairesheliovieira-ai/cairesheliovieira-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="mailto:cairesheliovieira@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/hélio-junior" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://dev.to/joterredev" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
+  </a>
+</p>
