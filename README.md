@@ -46,7 +46,7 @@ A arquitetura do projeto é estruturada sob o paradigma *serverless*, utilizando
   <a href="mailto:cairesheliovieira@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="www.linkedin.com/in/hélio-junior" target="_blank">
+  <a href="https://www.linkedin.com/in/h%C3%A9lio-junior/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://dev.to/joterredev" target="_blank">
