@@ -42,14 +42,17 @@ A arquitetura do projeto é estruturada sob o paradigma *serverless*, utilizando
 
 ### 📫 Como me encontrar
 
-<p align="left">
+<p>
   <a href="mailto:cairesheliovieira@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="48" width="48" />
   </a>
-  <a href="https://www.linkedin.com/in/h%C3%A9lio-junior/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/hélio-junior/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="48" width="48" />
   </a>
   <a href="https://dev.to/joterredev" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
+    <img src="https://skillicons.dev/icons?i=git" alt="Dev.to" height="48" width="48" />
+  </a>
+  <a href="https://github.com/cairesheliovieira-ai" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="48" width="48" />
   </a>
 </p>
