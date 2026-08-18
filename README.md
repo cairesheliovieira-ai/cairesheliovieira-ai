@@ -16,23 +16,23 @@ Sou um desenvolvedor em formação, sempre focado em aprendizado contínuo, orga
 * **Ferramentas & Frameworks:** Git para versionamento, FastAPI, e draw.io para criação de fluxogramas e planejamento de projetos.
 * **Idiomas:** Inglês (Intermediário) e Espanhol (Básico).
 
-### 📊 Minhas Estatísticas no GitHub
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=cairesheliovieira-ai&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=C9D1D9" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cairesheliovieira-ai&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cairesheliovieira-ai&theme=radical&hide_border=true&background=0D1117&stroke=0D1117&ring=FF6B6B&fire=4ECDC4&currStreakLabel=C9D1D9" />
-</p>
 
 ### 🚀 Projeto em Destaque
 * **HoraWeather - Sistema Web de Consulta Climática:** Uma aplicação web para consulta de dados climáticos e horários de cidades em tempo real. O projeto foi construído utilizando Python no backend com consumo de APIs, e HTML, CSS e JavaScript sendo utilizado VibeCode no frontend.
 * Link do projeto: https://cairesheliovieira-ai.github.io/HoraWeather-st/
 
+### Atualmente desenvolvendo um sistema distribuído de assistente de voz conversacional de alta performance, integrando a interface natural da Amazon Alexa com modelos de linguagem de grande escala (LLM) da API do Gemini. 
+
+A arquitetura do projeto é estruturada sob o paradigma *serverless*, utilizando o ambiente de computação em nuvem da AWS (AWS Lambda e IAM) para o processamento assíncrono de eventos e o tratamento de cargas JSON complexas oriundas do Alexa Skills Kit (ASK). O desenvolvimento abrange desafios avançados de engenharia de software, tais como:
+* **Mitigação de Latência e Timeouts:** Implementação de estratégias de otimização de payload e controle estrito do tempo de resposta para atender às restrições síncronas de infraestrutura de voz.
+* **Gerenciamento de Estado e Contexto:** Estruturação de persistência para suporte a diálogos multi-turno (*context-aware*), superando a natureza *stateless* nativa das requisições.
+* **Engenharia de Dados e Higienização:** Desenvolvimento de algoritmos de parsing para converter respostas brutas de IA (frequentemente em Markdown) em texto plano otimizado para a síntese de fala (SSML/Text-to-Speech).
+* **Segurança e Observabilidade:** Práticas rigorosas de isolamento de credenciais via variáveis de ambiente/secrets e monitoramento de logs de execução para rastreabilidade de falhas e consumo de API.
+
 ### 📫 Como me encontrar
 * **E-mail:** cairesheliovieira@gmail.com
+* **Linkedin:**www.linkedin.com/in/hélio-junior
+
 
 <!--
 **cairesheliovieira-ai/cairesheliovieira-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
