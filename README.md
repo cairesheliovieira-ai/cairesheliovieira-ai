@@ -23,7 +23,7 @@ Sou um desenvolvedor em formação, sempre focado em aprendizado contínuo, orga
   <p>
     <img src="https://skillicons.dev/icons?i=git,fastapi,aws" />
   </p>
-* **Idiomas:** Inglês (Intermediário) e Espanhol (Básico).
+* **Idiomas:** Inglês (Avançado) e Espanhol (Básico).
 
 
 ### 🚀 Projeto em Destaque
