@@ -31,7 +31,7 @@ A arquitetura do projeto é estruturada sob o paradigma *serverless*, utilizando
 
 ### 📫 Como me encontrar
 * **E-mail:** cairesheliovieira@gmail.com
-* **Linkedin:**www.linkedin.com/in/hélio-junior
+* **Linkedin:** www.linkedin.com/in/hélio-junior
 
 
 <!--
