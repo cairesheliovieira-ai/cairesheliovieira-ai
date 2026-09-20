@@ -30,15 +30,17 @@ Sou um desenvolvedor em formação, sempre focado em aprendizado contínuo, orga
 * **HoraWeather - Sistema Web de Consulta Climática:** Uma aplicação web para consulta de dados climáticos e horários de cidades em tempo real. O projeto foi construído utilizando Python no backend com consumo de APIs, e HTML, CSS e JavaScript sendo utilizado VibeCode no frontend.
 * Link do projeto: https://cairesheliovieira-ai.github.io/HoraWeather-st/
 
-### Assistente de Voz com LLM e Arquitetura Serverless (Em Desenvolvimento) 🎙️
+### Assistente de Voz Conversacional com LLM e Arquitetura Serverless — 2026
+Sistema distribuído de alta performance integrando a interface natural da Amazon Alexa com modelos generativos da
+API do Gemini, com arquitetura serverless na AWS.
+● Arquitetura serverless via AWS Lambda e IAM, com processamento assíncrono de eventos e tratamento de
+payloads JSON complexos do Alexa Skills Kit (ASK)
+● Mitigação de latência/timeouts e gerenciamento de estado para diálogos multi-turno (context-aware)
+● Higienização de dados: parsing de respostas de IA em Markdown para texto otimizado para síntese de fala
+(SSML/Text-to-Speech)
+● Boas práticas de segurança: isolamento de credenciais via variáveis de ambiente/secrets e monitoramento de
+logs de execução
 
-Atualmente desenvolvendo um sistema distribuído de assistente de voz conversacional de alta performance, integrando a interface natural da Amazon Alexa com modelos de linguagem de grande escala (LLM) da API do Gemini. 
-
-A arquitetura do projeto é estruturada sob o paradigma *serverless*, utilizando o ambiente de computação em nuvem da AWS (AWS Lambda e IAM) para o processamento assíncrono de eventos e o tratamento de cargas JSON complexas oriundas do Alexa Skills Kit (ASK). O desenvolvimento abrange desafios avançados de engenharia de software, tais como:
-* **Mitigação de Latência e Timeouts:** Implementação de estratégias de otimização de payload e controle estrito do tempo de resposta para atender às restrições síncronas de infraestrutura de voz.
-* **Gerenciamento de Estado e Contexto:** Estruturação de persistência para suporte a diálogos multi-turno (*context-aware*), superando a natureza *stateless* nativa das requisições.
-* **Engenharia de Dados e Higienização:** Desenvolvimento de algoritmos de parsing para converter respostas brutas de IA (frequentemente em Markdown) em texto plano otimizado para a síntese de fala (SSML/Text-to-Speech).
-* **Segurança e Observabilidade:** Práticas rigorosas de isolamento de credenciais via variáveis de ambiente/secrets e monitoramento de logs de execução para rastreabilidade de falhas e consumo de API.
 
 ### 📫 Como me encontrar
 
