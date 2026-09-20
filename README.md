@@ -31,15 +31,13 @@ Sou um desenvolvedor em formação, sempre focado em aprendizado contínuo, orga
 * Link do projeto: https://cairesheliovieira-ai.github.io/HoraWeather-st/
 
 ### Assistente de Voz Conversacional com LLM e Arquitetura Serverless — 2026
-Sistema distribuído de alta performance integrando a interface natural da Amazon Alexa com modelos generativos da
-API do Gemini, com arquitetura serverless na AWS.
-● Arquitetura serverless via AWS Lambda e IAM, com processamento assíncrono de eventos e tratamento de
-payloads JSON complexos do Alexa Skills Kit (ASK)
-● Mitigação de latência/timeouts e gerenciamento de estado para diálogos multi-turno (context-aware)
-● Higienização de dados: parsing de respostas de IA em Markdown para texto otimizado para síntese de fala
-(SSML/Text-to-Speech)
-● Boas práticas de segurança: isolamento de credenciais via variáveis de ambiente/secrets e monitoramento de
-logs de execução
+
+Sistema distribuído de alta performance integrando a interface natural da Amazon Alexa com modelos generativos da API do Gemini, com arquitetura serverless na AWS.
+
+- Arquitetura serverless via AWS Lambda e IAM, com processamento assíncrono de eventos e tratamento de payloads JSON complexos do Alexa Skills Kit (ASK)
+- Mitigação de latência/timeouts e gerenciamento de estado para diálogos multi-turno (context-aware)
+- Higienização de dados: parsing de respostas de IA em Markdown para texto otimizado para síntese de fala (SSML/Text-to-Speech)
+- Boas práticas de segurança: isolamento de credenciais via variáveis de ambiente/secrets e monitoramento de logs de execução
 
 
 ### 📫 Como me encontrar
